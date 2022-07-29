@@ -25,7 +25,6 @@ const Tokenlocker1 = () => {
           <button id="button_3">CONNECT WALLET</button>
         </div>
       </div>
-
       <div className="middle_div" >
         <div className="mainnets_dev">
           <option>
@@ -58,17 +57,17 @@ const Tokenlocker1 = () => {
 
         </div>
         <div className='info_div_3'>
-          <div style={{marginLeft:"30px"}}>
+          <div style={{marginLeft:"3rem"}}>
             <h5>@Copyright DEFI 2022</h5>
-            <h5 style={{marginTop:"20px"}}>Information</h5>
+            <h5 style={{marginTop:"2rem"}}>Information</h5>
           </div>
-          <div style={{marginLeft:"130px"}}>
+          <div style={{marginLeft:"13rem"}}>
             <h5>Privacy policy</h5>
-            <h5 style={{marginTop:"20px"}}>Terms of Use</h5>
+            <h5 style={{marginTop:"2rem"}}>Terms of Use</h5>
           </div>
         </div>
         <div className="bottom_corner">
-          <p id="bottom_para" style={{ marginBottom: "6px" }}>Subscribe to our NewsLetter</p>
+          <p id="bottom_para" style={{ marginBottom: "0.6rem" }}>Subscribe to our NewsLetter</p>
           <input className="input"></input>
           <button id="button_4">Subscribe</button>
         </div>
