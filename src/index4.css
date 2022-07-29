@@ -116,8 +116,8 @@
     box-sizing: border-box;
   
     position: absolute;
-    width: 725px;
-    height: 905px;
+    width: 72.5rem;
+    height: 90.5rem;
     left: 15.5rem;
     top: 3.1rem;
   
@@ -139,8 +139,8 @@
   .innerdiv_left_topboxes_left {
     box-sizing: border-box;
     position: absolute;
-    width: 89px;
-    height: 89px;
+    width: 8.9rem;
+    height: 8.9rem;
     margin-left: 5.5rem;
     margin-top: 4.9rem;
     border: 1px solid #5ce65c;
@@ -151,38 +151,38 @@
     margin-left: 17.2rem;
     margin-top: 6.8rem;
     position: absolute;
-    width: 121px;
-    height: 39px;
+    width: 12.1rem;
+    height: 3.9rem;
   
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 30px;
-    line-height: 39px;
+    font-size: 3rem;
+    line-height: 3.9rem;
   
     color: #5ce65c;
   }
   
   .inner_div_left_topboxes_right {
     position: absolute;
-    width: 89px;
-    height: 89px;
+    width: 8.9rem;
+    height: 8.9rem;
     margin-left: 57.9rem;
     margin-top: 5rem;
-    border-radius: 258px;
+    border-radius: 25.8rem;
   }
   .innerdiv_left_paragraph {
     position: absolute;
-    width: 602px;
-    height: 131px;
+    width: 60rem;
+    height: 13rem;
     margin-left: 5.6rem;
     margin-top: 17rem;
   
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 1.6rem;
+    line-height: 2rem;
     text-align: justify;
   
     color: #ffffff;
@@ -200,7 +200,7 @@
   .innerdiv_poolheadings {
     position: absolute;
     width: 16rem;
-    height: 30px;
+    height: 30rem;
     margin-left: 5.5rem;
     margin-top: 2.7rem;
   
@@ -208,10 +208,16 @@
     font-style: normal;
     font-weight: 700;
     font-size: 2rem;
-    line-height: 30px;
+    line-height: 3rem;
     word-spacing: 0.5rem;
   
     color: #5ce65c;
+  }
+  .binance_img{
+    position: absolute;
+    width: 8.9rem;
+    height: 8.9rem;
+    border-radius: 25.8rem;
   }
   .innerdiv_poolheadings_belowdiv {
     display: flex;
@@ -225,8 +231,8 @@
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
-    line-height: 20px;
+    font-size: 1.5rem;
+    line-height: 2rem;
     /* identical to box height */
   
     color: #ffffff;
@@ -249,44 +255,43 @@
   }
   .innerdiv_middleleft_leftheadings {
     /* position: absolute; */
-    width: 50px;
-    height: 22px;
-    /* left: 688px;
-    top: 973px;  */
+    width: 5rem;
+    height: 2.2rem;
+    
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 169.3%;
     color: #ffffff;
   }
   
   .innerdiv_middleleft_rightheadings {
     /* position: absolute; */
-    width: 173px;
-    height: 16px;
+    width: 17.3rem;
+    height: 1.6rem;
     /* left: 754px;
     top: 976px; */
     margin-top: 0.5rem;
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
+    font-size: 1.1rem;
     line-height: 148.8%;
     color: #ffffff;
   }
   .bottom {
     position: absolute;
-    width: 72px;
-    height: 28px;
+    width: 7.2rem;
+    height: 2.8rem;
     margin-left: 5.6rem;
     margin-top: 0.5rem;
   
     font-family: "Gilroy";
     font-style: normal;
     font-weight: 700;
-    font-size: 23px;
-    line-height: 28px;
+    font-size: 2.3rem;
+    line-height: 2.8rem;
   
     color: #5ce65c;
   }
@@ -307,49 +312,49 @@
   }
   .innerdiv_bottom1_leftheadings {
     /* position: absolute; */
-    width: 42px;
-    height: 25px;
+    width: 4.2rem;
+    height: 2.5rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 1.5rem;
     line-height: 169.3%;
     color: #ffffff;
   }
   .innerdiv_bottom1_rightheadings {
     /* position: absolute; */
-    width: 130px;
-    height: 18px;
+    width: 130rem;
+    height: 1.8rem;
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
     color: #ffffff;
     margin-top: 0.6rem;
   }
   #span_innerdiv {
     position: absolute;
-    width: 39px;
-    height: 17px;
+    width: 3.9rem;
+    height: 1.7rem;
     margin-top: 0.3rem;
     margin-left: 0.5rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 13px;
-    line-height: 17px;
+    font-size: 1.3rem;
+    line-height: 1.7rem;
     color: #ffffff;
   }
   .innerdiv_poolheadings_belowdiv_right {
     position: absolute;
-    width: 143px;
-    height: 25px;
+    width: 14.3rem;
+    height: 2.5rem;
     margin-left: 41.3rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 1.5rem;
     line-height: 169.3%;
     color: #ffffff;
   }
@@ -366,14 +371,14 @@
   }
   .innerdiv_poolheadings_1_headingsleft {
     /* position: absolute; */
-    width: 76px;
-    height: 25px;
+    width: 7.6rem;
+    height: 2.5rem;
     /* left: 327px;
   top: 774px; */
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 1.5rem;
     line-height: 169.3%;
     color: #ffffff;
   }
@@ -390,51 +395,34 @@
   }
   .innerdiv_poolheadings_1_headingsright {
     /* position: absolute; */
-    width: 261px;
-    height: 18px;
+    width: 26.1rem;
+    height: 1.8rem;
     /* left: 458px;
     top: 778px; */
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 15px;
+    font-size: 1.5rem;
     line-height: 18px;
     color: #ffffff;
   }
   
-  .innerdiv_right {
+  .innerdiv_right1 {
     box-sizing: border-box;
   
     position: absolute;
-    width: 397px;
-    height: 631px;
+    width: 39.7rem;
+    height: 63.1rem;
     margin-left: 100rem;
     margin-top: 3.1rem;
     border: 2px solid #5ce65c;
     background: rgba(96, 96, 96, 0.43);
     box-shadow: inset -1px 10px 19px rgba(0, 0, 0, 0.25);
-    border-radius: 14px;
+    border-radius: 1.4rem;
   }
   
-  /* .innerdivright_top {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 3rem;
-    margin-left: 2rem;
-    margin-top: 8rem;
-  } */
   
-  /* .innerdivright_topboxes {
-    box-sizing: border-box;
-    width: 21.8rem;
-    height: 34.3rem;
-  
-    border: 1px solid #5ce65c;
-  
-    border-radius: 10px;
-  } */
-  .innerdivright_bottom {
+  .innerdivright_bottom1 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -442,7 +430,7 @@
     margin-left: 16rem;
     margin-top: 2.5rem;
   }
-  .innerdivright_bottomboxes {
+  .innerdivright_bottomboxes1 {
     box-sizing: border-box;
     width: 21.8rem;
     height: 34.3rem;
@@ -452,29 +440,29 @@
   
     border-radius: 10px;
   }
-  .innerdivright_button {
+  .innerdivright_button1 {
     position: absolute;
-    width: 203px;
-    height: 53px;
+    width: 20.3rem;
+    height: 5.3rem;
     margin-left: 5.5rem;
     margin-top: 2rem;
   
     /* gradient green */
   
     background: linear-gradient(91.18deg, #5ce65c 3.96%, #249806 101.84%);
-    border-radius: 15px;
+    border-radius: 1.5rem;
   }
-  #button_15 {
+  #button_151 {
     position: absolute;
-    width: 137px;
-    height: 29px;
+    width: 13.7rem;
+    height: 2.9rem;
     margin-left: 4.3rem;
     margin-top: 1.3rem;
   
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 17px;
+    font-size: 1.7rem;
     line-height: 169.3%;
     /* identical to box height, or 29px */
   
@@ -488,100 +476,100 @@
   }
   .participate_div_heading {
     position: absolute;
-    width: 125px;
-    height: 24px;
+    width: 12.5rem;
+    height: 2.4rem;
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 169.3%;
     color: #d9d9d9;
   }
   .participate_div_line {
   }
-  .boxes_top {
+  .boxes_top1 {
     display: flex;
     flex-direction: row;
   }
-  .boxes_topleft {
+  .boxes_topleft1 {
     box-sizing: border-box;
   
     position: absolute;
-    width: 89px;
-    height: 89px;
+    width: 8.9rem;
+    height: 8.9rem;
     margin-left: 2rem;
     margin-top: 2.6rem;
     border: 1px solid #5ce65c;
     border-radius: 8.9rem;
     background: rgba(35, 35, 35, 0.36);
   }
-  .boxes_topright {
+  .boxes_topright1 {
     display: flex;
     flex-direction: column;
     margin-left: 14.2rem;
     margin-top: 4rem;
   }
-  .boxes_heading {
+  .boxes_heading12 {
     position: absolute;
-    width: 95px;
-    height: 31px;
+    width: 9.5rem;
+    height:3.1rem;
     /* left: 1128px;
       top: 429px; */
   
     font-family: "Gilroy";
     font-style: normal;
     font-weight: 700;
-    font-size: 25px;
-    line-height: 31px;
+    font-size: 2.5rem;
+    line-height: 3.1rem;
   
     color: #5ce65c;
   }
-  .boxes_heading1 {
+  .boxes_heading13 {
     position: absolute;
-    width: 38px;
-    height: 22px;
+    width: 3.8rem;
+    height: 2.2rem;
     margin-top: 2.5rem;
   
     font-family: "Gilroy";
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 22px;
+    font-size: 1.8rem;
+    line-height: 2.2rem;
     /* identical to box height */
   
     color: #afafaf;
   }
-  .boxes_mid {
+  .boxes_mid12 {
     display: flex;
     flex-direction: row;
   }
-  .boxes_midbuttonleft {
+  .boxes_midbuttonleft12 {
     box-sizing: border-box;
   
     position: absolute;
-    width: 51px;
-    height: 17px;
+    width: 5rem;
+    height: 1.7rem;
     margin-left: 14.2rem;
     margin-top: 6rem;
     border: 0.5px solid #5ce65c;
   
-    border-radius: 8px;
+    border-radius: 0.8rem;
   }
-  .boxes_midbuttonright {
+  .boxes_midbuttonright12 {
     position: absolute;
-    width: 51px;
-    height: 17px;
+    width: 5.1rem;
+    height: 1.7rem;
     margin-left: 20rem;
     margin-top: 6rem;
   
     background: #71ee4f;
-    border-radius: 8px;
+    border-radius: 0.8rem;
   }
-  #button_16 {
+  #button_161 {
     /* background: url("images/padlock.png"); */
     position: absolute;
-    width: 12px;
-    height: 3px;
+    width: 1.2rem;
+    height: 0.3rem;
     margin-left: 1rem;
     margin-top: 0.5rem;
   
@@ -589,16 +577,16 @@
     font-style: normal;
     font-weight: 600;
     font-size: 0.7rem;
-    line-height: 4px;
+    line-height: 0.4rem;
   
     color: #ffffff;
   }
-  #button_17 {
+  #button_171 {
     /* background: url("images/Ellipse13.png"); */
   
     position: absolute;
-    width: 8px;
-    height: 3px;
+    width: 0.8rem;
+    height: 0.3rem;
     margin-left: 1.6rem;
     margin-top: 0.7rem;
   
@@ -606,144 +594,141 @@
     font-style: normal;
     font-weight: 600;
     font-size: 0.7rem;
-    line-height: 4px;
+    line-height: 0.4rem;
   
     color: #ffffff;
   }
-  .wallet_div {
+  .wallet_div1 {
     box-sizing: border-box;
   
     position: absolute;
-    width: 319px;
-    height: 90px;
+    width: 31.9rem;
+    height: 9rem;
     margin-left: 3.3rem;
     margin-top: 10rem;
   
     background: rgba(26, 30, 33, 0.59);
-    border-radius: 18px;
+    border-radius: 1.8rem;
   }
   
-  .boxes_mid1 {
+  .boxes_mid13 {
     margin-top: 3rem;
   }
-  .boxes_mid_inner {
+  .boxes_mid_inner1 {
     display: flex;
     flex-direction: column;
     margin-left: 4rem;
   }
-  .boxes_mid_inner_top {
+  .boxes_mid_inner_top1 {
     position: absolute;
-    width: 201px;
-    height: 19px;
-    /* left: 1309px;
-    top: 504px; */
-  
+    width: 20rem;
+    height: 1.9rem;
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 20px;
-    line-height: 25px;
+    font-size: 2rem;
+    line-height: 2.5rem;
     color: #5ce65c;
   }
-  .boxes_mid_inner_bottom {
+  .boxes_mid_inner_bottom1 {
     position: absolute;
-    width: 201px;
-    height: 19px;
+    width: 20rem;
+    height: 1.9rem;
     margin-top: 2.5rem;
   
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 18px;
-    line-height: 22px;
+    font-size: 1.8rem;
+    line-height: 2.2rem;
     color: #5ce65c;
   }
   
-  .potion_fill {
+  .Ppotion_fill {
     width: 100%;
     height: 1.2rem;
   }
-  .potion {
+  .Ppotion {
     position: absolute;
     margin-top: 1rem;
     margin-left: 4rem;
-    width: 303px;
-    height: 11px;
+    width: 30.3rem;
+    height: 1.1rem;
     margin-left: 4rem;
     background: #525252;
-    border-radius: 46px;
+    border-radius: 4.6rem;
   }
-  .potion_flow {
+  .Ppotion_flow {
     position: absolute;
-    width: 167px;
-    height: 11px;
+    width: 16.7rem;
+    height: 1.1rem;
     background: #5ce65c;
-    border-radius: 46px;
+    border-radius: 4.6rem;
   }
-  .registration {
+  .Rregistration {
     display: flex;
     width: 100%;
     height: 1rem;
     margin-top: 6rem;
   }
-  #registration {
+  #Rregistration {
     position: absolute;
-    width: 243px;
+    width: 24.3rem;
     height: 0.9rem;
     margin-left: 4rem;
   
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 13px;
-    line-height: 17px;
+    font-size: 1.3rem;
+    line-height: 1.7rem;
   
     color: #fafafa;
   }
-  #percentage {
+  #Ppercentage {
     position: absolute;
-    width: 30px;
-    height: 15px;
+    width: 3rem;
+    height: 1.5rem;
     margin-left: 32rem;
   
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 13px;
-    line-height: 17px;
+    font-size: 1.3rem;
+    line-height: 1.7rem;
   
     color: #5ce65c;
   }
-  .registration_1 {
+  .Rregistration_1 {
     display: flex;
     width: 100%;
     margin-top: 1.3rem;
   }
-  #registration_1 {
+  #Rregistration_1 {
     position: absolute;
-    width: 197px;
-    height: 8px;
+    width: 19.7rem;
+    height: 0.8rem;
     margin-left: 4rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 10px;
-    line-height: 12px;
+    font-size: 1rem;
+    line-height: 1.2rem;
   
     color: #fafafa;
   }
-  #percentage_1 {
+  #Ppercentage_1 {
     position: absolute;
-    width: 91px;
-    height: 8px;
+    width: 9rem;
+    height: 0.8rem;
     margin-left: 27rem;
   
     width: 20rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 10px;
-    line-height: 12px;
+    font-size: 1rem;
+    line-height: 1.2rem;
   
     color: #5ce65c;
   }
@@ -753,128 +738,122 @@
     left: 6.11%;
     right: 88.5%;
     bottom: 29%;
-    height: 84.01px;
+    height: 8.4rem;
   }
   
-  .kyc_images {
+  .Kyc_images1 {
     margin-top: 2.2rem;
     /* margin-left: 2.225rem; */
     display: flex;
     flex-direction: row;
     height: 0.8rem;
   }
-  .kyc_audit {
+  .Kyc_audit1 {
     display: flex;
     /* flex-direction: row; */
     height: 4.1rem;
     margin-top: 4rem;
   }
-  .audit_div {
+  .Audit_div1 {
     margin-left: 4rem;
     box-sizing: border-box;
-  
     position: absolute;
-    width: 121px;
-    height: 51.56px;
+    width: 12rem;
+    height: 5.15rem;
     /* left: 365px;
     top: 2308px; */
-  
     background: #2c2e30;
     border-radius: 1.2rem;
     border: 1px solid #5ce65c;
   }
-  .kycbox_div {
+  .Kycbox_div1 {
     margin-left: 23rem;
     box-sizing: border-box;
-  
     position: absolute;
-    width: 121px;
-    height: 51.56px;
+    width: 12.1rem;
+    height: 5.15rem;
     /* left: 179px;
     top: 2308px; */
-  
     background: #2c2e30;
     border-radius: 1.2rem;
     border: 1px solid #5ce65c;
   }
   
-  #button_18 {
+  #button_181 {
     position: absolute;
-    width: 121px;
-    height: 51.56px;
+    width: 12.1rem;
+    height: 5.15rem;
     margin: 1rem 2.5rem;
-  
     font-family: "Konnect";
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
-    line-height: 26px;
-  
+    font-size: 2rem;
+    line-height: 2.6rem;
     color: #ffffff;
   }
-  #button_19 {
+  #button_191 {
     margin: 1rem 3.5rem;
     position: absolute;
-    width: 22.96px;
-    height: 5.62px;
+    width: 2.3rem;
+    height: 0.56rem;
     /* left: 397px;
     top: 2319px; */
   
     font-family: "Konnect";
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 2rem;
+    line-height: 2.6rem;
   
     color: #ffffff;
   }
   
-  .boxes_mid2 {
+  .boxes_mid21 {
     display: flex;
     flex-direction: row;
     margin-top: 1.5rem;
     gap: 3rem;
   }
-  .boxes_mid2_left {
+  .boxes_mid2_left1 {
     display: flex;
     flex-direction: row;
     margin-left: 4rem;
     gap: 2.5rem;
   }
-  .boxes_mid2_left_left {
+  .boxes_mid2_left_left1 {
     display: flex;
     flex-direction: column;
   }
-  .boxes_mid2_left_right {
+  .boxes_mid2_left_right1 {
     display: flex;
     flex-direction: column;
     margin-left: 3.6rem;
     margin-top: 1.1rem;
   }
-  .boxes_mid2_image1 {
+  .boxes_mid2_image11 {
     position: absolute;
-    width: 21px;
-    height: 18px;
+    width: 2.1rem;
+    height: 1.8rem;
     margin-top: 1rem;
   }
-  .boxes_mid2_image2 {
+  .boxes_mid2_image21 {
     position: absolute;
-    width: 21px;
-    height: 18px;
+    width: 2.1rem;
+    height: 1.8rem;
     margin-top: 3.5rem;
   }
-  .boxes_mid2_image3 {
+  .boxes_mid2_image31 {
     position: absolute;
-    width: 21px;
-    height: 18px;
+    width: 2.1rem;
+    height: 1.8rem;
     margin-top: 6rem;
   }
   
-  .boxes_mid2_left_headings {
+  .boxes_mid2_left_headings1 {
     /* margin-bottom: 1.5rem; */
     /* position: absolute; */
-    width: 20.31px;
-    height: 4.92px;
+    width: 2rem;
+    height: 0.492rem;
     margin-bottom: 2.1rem;
   
     /* TEXT small banners */
@@ -882,52 +861,52 @@
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
+    font-size: 1.1rem;
     line-height: 148.8%;
     /* or 9px */
   
     color: #fafafa;
   }
-  .boxes_mid2_right {
+  .boxes_mid2_right1 {
     margin-top: 1.1rem;
   }
-  .boxes_mid2_right_headings {
+  .boxes_mid2_right_headings1 {
     /* position: absolute; */
-    width: 173px;
-    height: 16px;
+    width: 17.3rem;
+    height: 1.6rem;
     margin-bottom: 1rem;
     margin-left: 4rem;
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
+    font-size: 1.1rem;
     line-height: 148.8%;
     /* or 9px */
   
     color: #ffffff;
   }
-  .boxes_mid3 {
+  .boxes_mid31 {
     display: flex;
     flex-direction: row;
     margin-top: 4rem;
   }
-  .boxes_mid3_left {
+  .boxes_mid3_left1 {
     position: absolute;
-    width: 22px;
-    height: 15px;
+    width: 2.2rem;
+    height: 1.5rem;
     margin-left: 4rem;
   }
   
-  .boxes_mid3_right {
+  .boxes_mid3_right1 {
     position: absolute;
-    width: 147px;
-    height: 8px;
+    width: 14.7rem;
+    height: 0.8rem;
     margin-left: 10rem;
   
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
+  font-size: 11.rem;
     line-height: 148.8%;
     /* or 9px */
   
@@ -935,8 +914,8 @@
   }
   .right_bottom {
     position: absolute;
-    width: 395px;
-    height: 249px;
+    width: 39.5rem;
+    height: 24.9rem;
     margin-left: 100rem;
     margin-top: 69rem;
   
@@ -946,15 +925,15 @@
   
   .right_bottom_top {
     position: absolute;
-    width: 120px;
-    height: 13px;
+    width: 12rem;
+    height: 1.3rem;
     margin-left: 3rem;
     margin-top: 2rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 1.2rem;
+    line-height: 1.3rem;
     color: #d9d9d9;
   }
   
@@ -962,30 +941,30 @@
     box-sizing: border-box;
   
     position: absolute;
-    width: 338px;
-    height: 36px;
+    width: 33.8rem;
+    height: 3.6rem;
     margin-left: 3rem;
     margin-top: 4rem;
     border: 1px solid #d9d9d9;
-    border-radius: 9px;
+    border-radius: 0.9rem;
   }
   
   .right_bottom_top2 {
     box-sizing: border-box;
   
     position: absolute;
-    width: 78px;
-    height: 33px;
+    width: 7.8rem;
+    height: 3.3rem;
     margin-left: 3rem;
     margin-top: 8.5rem;
     border: 1px solid #d9d9d9;
-    border-radius: 9px;
+    border-radius: 0.9rem;
   }
   
   #button_20 {
     position: absolute;
-    width: 18px;
-    height: 13px;
+    width: 1.8rem;
+    height: 1.3rem;
     margin-left: 3rem;
     margin-top: 1rem;
   
@@ -994,8 +973,8 @@
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 10px;
-    line-height: 13px;
+    font-size: 1rem;
+    line-height: 1.3rem;
     color: #d9d9d9;
   }
   .right_bottom_bottom {
@@ -1018,23 +997,23 @@
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 1.2rem;
+    line-height: 1.3rem;
     color: #d9d9d9;
-    width: 75px;
-    height: 13px;
+    width: 7.5rem;
+    height: 1.3rem;
     margin-bottom: 1rem;
   }
   .right_bottom_rightheadings {
     /* position: absolute; */
-    width: 49px;
-    height: 13px;
+    width: 4.9rem;
+    height: 1.3rem;
     
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 1.2rem;
+    line-height: 1.3rem;
     text-align: right;
     color: #79fb53;
     margin-bottom: 1rem;
@@ -1163,4 +1142,22 @@
     font-size: 1.3rem;
     line-height: 1.6rem;
   }
+  @media (min-width: 1000px) and (max-width: 1550px) {
+    html {
+      font-size: 49.4%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
+  }
+  
+  @media (min-width: 1650px) and (max-width: 1920px) {
+    html {
+      font-size: 62.5%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
+  }
+  
   

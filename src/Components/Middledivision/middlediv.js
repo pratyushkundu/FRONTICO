@@ -5,7 +5,7 @@ import Boxesdiv from './middlediv_boxesdiv'
 const middlediv = () => {
     return (
         <>
-            <div className="middle_div" >
+            <div className="middle_div1" >
                 <img className="mid_image_1" src="images/Vector8.png" />
                 <img className="mid_image_2" src="images/Vector7.png" />
                 <img className="mid_image_3" src="images/Vector6.png" />

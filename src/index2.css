@@ -6,7 +6,7 @@
   html {
     font-size: 62.5%;
   }
-  .main_div {
+  .main_div1 {
     position: relative;
     width: 192rem;
     height: 456rem;
@@ -89,7 +89,7 @@
     color: #fff;
   }
   
-  .middle_div {
+  .middle_div1 {
     background: url("./images/1bg5.png");
     color: #fff;
     object-fit: cover;
@@ -201,7 +201,7 @@
     left: 6.11%;
     right: 88.5%;
     bottom: 29%;
-    height: 84.01px;
+    height: 8.4rem;
   }
   .spark_image_1 {
     position: absolute;
@@ -219,7 +219,7 @@
     letter-spacing: 1px;
   }
   
-  .bottom_div {
+  .bottom_div1 {
     position: absolute;
     width: 192rem;
     height: 18.8rem;
@@ -899,4 +899,25 @@
     font-weight: 40rem;
     font-size: 1.3rem;
     line-height: 1.6rem;
+  }
+
+  @media (min-width: 1000px) and (max-width: 1550px) {
+    html {
+      font-size: 49.4%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
+    .heading{
+      margin-left:27rem;
+    }
+  }
+  
+  @media (min-width: 1650px) and (max-width: 1920px) {
+    html {
+      font-size: 62.5%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
   }

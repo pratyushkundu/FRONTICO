@@ -1,4 +1,5 @@
 import React from 'react'
+import './index4.css';
 
 
 const Tokenlocker1 = () => {
@@ -104,54 +105,54 @@ const Tokenlocker1 = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='innerdiv_right'>
+                    <div className='innerdiv_right1'>
                         {/* <div className='innerdivright_top'> */}
                         {/* <div className='innerdivright_topboxes'> */}
-                        <div className='boxes_top'>
-                            <div className='boxes_topleft'></div>
-                            <div className='boxes_topright'>
-                                <div className='boxes_heading'>Roburna</div>
-                                <div className='boxes_heading1'>$xxx</div>
+                        <div className='boxes_top1'>
+                            <div className='boxes_topleft1'></div>
+                            <div className='boxes_topright1'>
+                                <div className='boxes_heading12'>Roburna</div>
+                                <div className='boxes_heading13'>$xxx</div>
                             </div>
                         </div>
-                        <div className="boxes_mid">
-                            <div className='boxes_midbuttonleft'>
-                                <div id="button_16">Register</div>
+                        <div className="boxes_mid12">
+                            <div className='boxes_midbuttonleft12'>
+                                <div id="button_161">Register</div>
                             </div>
-                            <div className='boxes_midbuttonright'>
-                                <div id="button_17">Level</div>
+                            <div className='boxes_midbuttonright12'>
+                                <div id="button_171">Level</div>
                             </div>
                         </div>
-                        <div className='wallet_div'>
-                            <div className='innerdivright_button'>
-                                <div id="button_15">Connect Wallet</div>
+                        <div className='wallet_div1'>
+                            <div className='innerdivright_button1'>
+                                <div id="button_151">Connect Wallet</div>
                             </div>
                         </div>
                         <div className='participate_div'>
                             <div className='participate_div_heading'>How to participate</div>
                             <div className='participate_div_line'></div>
                         </div>
-                        <div className='boxes_mid1'>
-                            <div className='boxes_mid_inner'>
-                                <div className="boxes_mid_inner_top">1 XXX = 0.02 IGNT </div>
-                                <div className="boxes_mid_inner_bottom">1 IGNT = 200XXX</div>
+                        <div className='boxes_mid13'>
+                            <div className='boxes_mid_inner1'>
+                                <div className="boxes_mid_inner_top1">1 XXX = 0.02 IGNT </div>
+                                <div className="boxes_mid_inner_bottom1">1 IGNT = 200XXX</div>
                             </div>
                         </div>
-                        <div className='registration'>
-                            <div id="registration">registration closes in 2 days, 22 hours</div>
-                            <div id="percentage">45%</div>
+                        <div className='Rregistration'>
+                            <div id="Rregistration">registration closes in 2 days, 22 hours</div>
+                            <div id="Ppercentage">45%</div>
                         </div>
 
-                        <div className='potion_fill'>
-                            <div className='potion'>
-                                <div className='potion_flow'>
+                        <div className='Ppotion_fill'>
+                            <div className='Ppotion'>
+                                <div className='Ppotion_flow'>
                                 </div>
                             </div>
                         </div>
 
-                        <div className='registration_1'>
-                            <div id="registration_1">0XXX</div>
-                            <div id="percentage_1">0/10 000 000 IDR</div>
+                        <div className='Rregistration_1'>
+                            <div id="Rregistration_1">0XXX</div>
+                            <div id="Ppercentage_1">0/10 000 000 IDR</div>
                         </div>
                         {/* <div className='kyc_images'>
                             <img className="spark_image_2_1" src="images/Vector4.png" />
@@ -160,38 +161,38 @@ const Tokenlocker1 = () => {
                             <img className="spark_image_2_1" src="images/Vector2.png" />
 
                         </div> */}
-                        <div className='boxes_mid3'>
-                            <img className='boxes_mid3_left' src="images/Asset861.png" />
-                            <div className='boxes_mid3_right'>IDO and disrtibution on BSC</div>
+                        <div className='boxes_mid31'>
+                            <img className='boxes_mid3_left1' src="images/Asset861.png" />
+                            <div className='boxes_mid3_right1'>IDO and disrtibution on BSC</div>
                         </div>
-                        <div className='boxes_mid2'>
-                            <div className='boxes_mid2_left'>
-                                <div className='boxes_mid2_left_left'>
-                                    <img className="boxes_mid2_image1" src="images/Asset856.png"></img>
-                                    <img className="boxes_mid2_image2" src="images/Asset855.png"></img>
-                                    <img className="boxes_mid2_image3" src="images/Asset854.png"></img>
+                        <div className='boxes_mid21'>
+                            <div className='boxes_mid2_left1'>
+                                <div className='boxes_mid2_left_left1'>
+                                    <img className="boxes_mid2_image11" src="images/Asset856.png"></img>
+                                    <img className="boxes_mid2_image21" src="images/Asset855.png"></img>
+                                    <img className="boxes_mid2_image31" src="images/Asset854.png"></img>
                                 </div>
-                                <div className='boxes_mid2_left_right'>
-                                    <div className='boxes_mid2_left_headings'>Register</div>
-                                    <div className='boxes_mid2_left_headings'>Sale</div>
-                                    <div className='boxes_mid2_left_headings'>FCFS</div>
+                                <div className='boxes_mid2_left_right1'>
+                                    <div className='boxes_mid2_left_headings1'>Register</div>
+                                    <div className='boxes_mid2_left_headings1'>Sale</div>
+                                    <div className='boxes_mid2_left_headings1'>FCFS</div>
                                 </div>
                             </div>
-                            <div className='boxes_mid2_right'>
-                                <div className="boxes_mid2_right_headings">Feb 21, 11:00 - Feb 23, 08:00 UTC
+                            <div className='boxes_mid2_right1'>
+                                <div className="boxes_mid2_right_headings1">Feb 21, 11:00 - Feb 23, 08:00 UTC
                                 </div>
-                                <div className="boxes_mid2_right_headings">Feb  23, 11:00 - 16:00 UTC
+                                <div className="boxes_mid2_right_headings1">Feb  23, 11:00 - 16:00 UTC
                                 </div>
-                                <div className="boxes_mid2_right_headings">Feb  23, 15:40 UTC UTC
+                                <div className="boxes_mid2_right_headings1">Feb  23, 15:40 UTC UTC
                                 </div>
                             </div>
                         </div>
-                        <div className="kyc_audit">
-                            <div className='audit_div'>
-                                <div id="button_18">AUDIT</div>
+                        <div className="Kyc_audit1">
+                            <div className='Audit_div1'>
+                                <div id="button_181">AUDIT</div>
                             </div>
-                            <div className="kycbox_div">
-                                <div id="button_19">KYC</div>
+                            <div className="Kycbox_div1">
+                                <div id="button_191">KYC</div>
                             </div>
                             {/* </div> */}
                             {/* </div> */}

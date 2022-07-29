@@ -45,7 +45,7 @@
     left: 120rem;
     top: 6.7rem;
     background: linear-gradient(91.18deg, #5ce65c 3.96%, #249806 101.84%);
-    border-radius: 12px;
+    border-radius: 1.2rem;
   }
   #button_1 {
     position: absolute;
@@ -106,7 +106,7 @@
     height: 97.6rem;
     left: 11rem;
     margin-top: 8.3rem;
-    border: 2px solid #5ce65c;
+    border: 0.2rem solid #5ce65c;
     background: rgba(96, 96, 96, 0.43);
     border-radius: 3.4rem;
   }
@@ -114,69 +114,69 @@
   .inner_div_left {
     width: 51.5rem;
     height: 40rem;
-    border: 2px solid #5ce65c;
+    border: 0.2rem solid #5ce65c;
     box-sizing: border-box;
   
     position: absolute;
-    width: 515px;
-    height: 401px;
+    width: 51.5rem;
+    height: 40rem;
     margin-left: 4.7rem;
     margin-top: 5.4rem;
   
     background: #1a1e21;
-    border-radius: 15px;
+    border-radius: 1.5rem;
   }
   .inner_div_heading{
     position: absolute;
-    width: 98px;
-    height: 21px;
+    width: 9.8rem;
+    height: 2.1rem;
     margin-left: 21rem;
     margin-top: 4.1rem;
     font-family: 'Konnect';
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 21px;
+    font-size: 1.6rem;
+    line-height: 2.1rem;
     color: #FFFFFF;
     
   }
   .inner_div_top{
     position: absolute;
-    width: 440px;
-    height: 60px;
+    width: 44rem;
+    height: 6rem;
     margin-left:4rem ;
     margin-top: 7rem;
     font-family: 'Konnect';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 169.3%;
     color: #FFFFFF;
     
   }
   .inner_div_middle{
     position: absolute;
-    width: 440px;
-    height: 38px;
+    width: 44rem;
+    height: 3.8rem;
     margin-left: 4rem;
     margin-top: 14.3rem;
     font-family: 'Konnect';
     font-style: italic;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 148.8%;
     color: #404345;
   }
   .inner_div_bottom{
     position: absolute;
-    width: 440px;
-    height: 38px;
+    width: 44rem;
+    height: 3.8rem;
     margin-left: 4rem;
     margin-top: 19.2rem;
     font-family: 'Konnect';
     font-style: italic;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 148.8%;
     color: #79FB53;
     
@@ -184,28 +184,28 @@
   .inner_div_bottom1{
   
     position: absolute;
-    width: 429px;
-    height: 26px;
+    width: 42.9rem;
+    height: 2.6rem;
     margin-left: 4rem;
     margin-top: 25.1rem;
     
     background: #101010;
-    border-radius: 5px;
+    border-radius: 0.5rem;
   }
   .inner_div_bottom2{
   
     box-sizing: border-box;
   
     position: absolute;
-    width: 428px;
-    height: 87px;
+    width: 42.8rem;
+    height: 8.7rem;
     margin-left:4rem;
     margin-top: 28.3rem;
     
     /* stroke */
     
-    border: 1px solid #434242;
-    border-radius: 9px;
+    border: 0.1rem solid #434242;
+    border-radius: 0.9rem;
   }
   
   .inner_div_right {
@@ -221,67 +221,67 @@
   }
   .inner_div_right_top_left {
     position: absolute;
-    width: 509px;
-    height: 50px;
+    width: 50.9rem;
+    height: 5rem;
     background: #121517;
   }
   .inner_div_right_top_right {
     position: absolute;
-    width: 509px;
-    height: 50px;
+    width: 51rem;
+    height: 5rem;
     margin-left: 51rem;
     background: #121517;
   }
   .inner_div_right_top_below {
     position: absolute;
-    width: 1022px;
-    height: 165px;
+    width: 102.2rem;
+    height: 16.5rem;
     margin-top: 6.3rem;
     display: flex;
     flex-direction: row;
     background: #1a1e21;
-    border-radius: 7px;
+    border-radius: 0.7rem;
   }
   .inner_div_right_top_below_left {
     position: absolute;
-    width: 60px;
-    height: 21px;
+    width: 6rem;
+    height: 2.1rem;
     margin-left: 1.3rem;
     margin-top: 1rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 21px;
+    font-size: 1.6rem;
+    line-height: 2.1rem;
     color: #d9d9d9;
   }
   .inner_div_right_top_below_right {
     position: absolute;
-    width: 90px;
-    height: 23px;
+    width: 9rem;
+    height: 2.3rem;
     margin-left: 90.8rem;
     margin-top: 0.9rem;
   
     background: #1a1e21;
-    box-shadow: -2px 2px 13px rgba(0, 0, 0, 0.52);
-    border-radius: 5px;
+    box-shadow: -0.2rem 0.2rem 1.3rem rgba(0, 0, 0, 0.52);
+    border-radius: 0.5rem;
   }
   #button_21 {
     position: absolute;
-    width: 48px;
-    height: 12px;
+    width: 4.8rem;
+    height: 1.2rem;
     margin-left: 1.1rem;
     margin-top: 0.6rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 9px;
-    line-height: 12px;
+    font-size: 0.9rem;
+    line-height: 1.2rem;
     color: #ffffff;
   }
   .inner_div_stroke1 {
     position: absolute;
-    width: 1016px;
+    width: 101.6rem;
     height: 0px;
     margin-left: 0.4rem;
     margin-top: 4.5rem;
@@ -295,22 +295,22 @@
     margin-top: 5.3rem;
     margin-left: 1.4rem;
     position: absolute;
-    width: 93px;
-    height: 23px;
+    width: 9.3rem;
+    height: 2.3rem;
     background: #79fb53;
-    border-radius: 5px;
+    border-radius: 0.5rem;
   }
   #button_22 {
     position: absolute;
-    width: 54px;
-    height: 13px;
+    width: 5.4rem;
+    height: 1.3rem;
     margin-left: 1rem;
     margin-top: 0.55rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
     font-size: 10px;
-    line-height: 13px;
+    line-height: 1.3rem;
     color: #1a1e21;
   }
   .inner_heading1 {
@@ -319,27 +319,27 @@
   }
   .innerheading_top {
     /* position: absolute; */
-    width: 84px;
-    height: 19px;
+    width: 8.4rem;
+    height: 1.9rem;
     /* left: 972px; */
     margin-top: 0.2rem;
     font-family: "Konnect";
     font-style: italic;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 148.8%;
     color: #434242;
   }
   .innerheading_bottom {
     /* position: absolute; */
-    width: 71px;
-    height: 22px;
+    width: 7.1rem;
+    height: 2.2rem;
     margin-left: 0.3rem;
     margin-top: -0.3rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 169.3%;
     color: #ffffff;
   }
@@ -349,7 +349,7 @@
   }
   .inner_div_stroke2 {
     position: absolute;
-    width: 1016px;
+    width: 101.6rem;
     height: 0px;
     margin-left: 0.4rem;
     margin-top: 8.2rem;
@@ -357,61 +357,61 @@
   }
   .inner_button_download {
     position: absolute;
-    width: 90px;
-    height: 23px;
+    width: 9rem;
+    height: 2.3rem;
     margin-left: 48.5rem;
     margin-top: 5.7rem;
   
     background: #1a1e21;
-    box-shadow: -2px 2px 13px rgba(0, 0, 0, 0.52);
-    border-radius: 5px;
+    box-shadow: -0.2rem 0.2rem 1.3rem rgba(0, 0, 0, 0.52);
+    border-radius: 0.5rem;
   }
   #button_23 {
     position: absolute;
-    width: 66px;
-    height: 12px;
+    width: 6.6rem;
+    height: 1.2rem;
     margin-left: 1rem;
     margin-top: 0.5rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 9px;
-    line-height: 12px;
+    font-size: 0.9rem;
+    line-height: 1.2rem;
     color: #ffffff;
   }
   .inner_button_import {
     position: absolute;
-    width: 90px;
-    height: 23px;
+    width: 9rem;
+    height: 2.3rem;
     margin-left: 57.7rem;
     margin-top: 5.7rem;
   
     background: #1a1e21;
-    box-shadow: -2px 2px 13px rgba(0, 0, 0, 0.52);
-    border-radius: 5px;
+    box-shadow: -0.2rem 0.2rem 1.3rem rgba(0, 0, 0, 0.52);
+    border-radius: 0.5rem;
   }
   #button_24 {
     position: absolute;
-    width: 66px;
-    height: 12px;
+    width: 6.6rem;
+    height: 1.2rem;
     margin-left: 1rem;
     margin-top: 0.4rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 400;
-    font-size: 9px;
-    line-height: 12px;
+    font-size: 0.9rem;
+    line-height: 1.2rem;
     color: #ffffff;
   }
   .inner_div_right_mid {
     position: absolute;
-    width: 1022px;
-    height: 33px;
+    width: 102.2rem;
+    height: 3.3rem;
   
-    margin-top: 241px;
+    margin-top: 24.1rem;
   
     background: #1a1e21;
-    border-radius: 6px;
+    border-radius: 0.6rem;
   }
   .inner_div_right_headingdiv {
     /* margin-left: 43.2rem; */
@@ -421,74 +421,74 @@
   
   .inner_div_right_top_headingtop {
     position: absolute;
-    width: 281px;
-    height: 22px;
+    width: 28.1rem;
+    height: 2.2rem;
     margin-left: 1.3rem;
     margin-top: 12rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 300;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 169.3%;
   }
   .inner_div_right_top_headingbottom {
     position: absolute;
-    width: 63px;
-    height: 13px;
+    width: 6.3rem;
+    height: 1.3rem;
     margin-left: 2.3rem;
     margin-top: 14rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 700;
-    font-size: 10px;
-    line-height: 13px;
+    font-size: 1rem;
+    line-height: 1.3rem;
     color: #ffffff;
   }
   .inner_div_right_mid_heading {
     position: absolute;
-    width: 161px;
-    height: 17px;
+    width: 16.1rem;
+    height: 1.7rem;
     margin-left: 43.2rem;
     margin-top: 0.7rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
-    line-height: 17px;
+    font-size: 1.3rem;
+    line-height: 1.7rem;
     color: #ffffff;
   }
   .inner_div_right_mid_below {
     position: absolute;
-    width: 1022px;
-    height: 256px;
-    margin-top: 292px;
+    width: 102.2rem;
+    height: 25.6rem;
+    margin-top: 29.2rem;
   
     background: #1a1e21;
-    border-radius: 8px;
+    border-radius: 0.8rem;
   }
   .inner_div_right_mid_belowheading1 {
     position: absolute;
-    width: 303px;
-    height: 18px;
+    width: 30.3rem;
+    height: 1.8rem;
     margin-left: 2.1rem;
     margin-top: 1.6rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
     color: #ffffff;
   }
   .inner_div_right_mid_belowheading2 {
     position: absolute;
-    width: 918px;
-    height: 18px;
+    width: 91.8rem;
+    height: 1.8rem;
     margin-left: 2.1rem;
     margin-top: 4.2rem;
     font-family: "Avenir Next Cyr";
     font-style: normal;
     font-weight: 450;
-    font-size: 12px;
+    font-size: 1.2rem;
     line-height: 148.8%;
     color: #ffffff;
   }
@@ -500,13 +500,13 @@
   }
   .inner_div_right_mid_below_midheading11 {
     position: absolute;
-    width: 99px;
-    height: 18px;
+    width: 9.9rem;
+    height: 1.8rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 1.4rem;
+    line-height:1.8rem;
   
     color: #ffffff;
   }
@@ -516,13 +516,13 @@
   }
   .inner_div_right_mid_below_midheading12 {
     position: absolute;
-    width: 50px;
-    height: 22px;
+    width: 5rem;
+    height: 2.2rem;
     margin-left: 83.2rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 169.3%;
     text-align: right;
   
@@ -539,25 +539,25 @@
   }
   .inner_div_right_mid_below_midheading21 {
     position: absolute;
-    width: 35px;
-    height: 18px;
+    width: 3.5rem;
+    height: 1.8rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
   
     color: #ffffff;
   }
   .inner_div_right_mid_below_midheading22 {
     position: absolute;
-    width: 70px;
-    height: 22px;
+    width: 7rem;
+    height: 2.2rem;
     margin-left: 81.2rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 169.3%;
     text-align: right;
   
@@ -572,24 +572,24 @@
   }
   .inner_div_right_mid_below_midheading_below {
     position: absolute;
-    width: 976px;
-    height: 50px;
+    width: 97.6rem;
+    height: 5rem;
     margin-left: 2.3rem;
     margin-top: 1rem;
     display: flex;
     flex-direction: row;
     background: #121517;
-    border-radius: 10px;
+    border-radius: 1rem;
   }
   .inner_div_right_mid_below_midheading_button {
     position: absolute;
-    width: 20px;
-    height: 20px;
+    width: 2rem;
+    height: 2rem;
     margin-left: 2.5rem;
     margin-top: 1.5rem;
   
     background: #fe0000;
-    border-radius: 5px;
+    border-radius:0.5rem;
   }
   #crossimg {
     margin: 0.4rem;
@@ -597,25 +597,25 @@
   
   .inner_div_right_mid_below_midheading_belowheading {
     position: absolute;
-    width: 550px;
-    height: 21px;
+    width: 55rem;
+    height: 2.1rem;
     margin-left: 7rem;
     margin-top: 1.5rem;
     font-family: "Glory";
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 148.8%;
     color: #ffffff;
   }
   .inner_div_right_bottom {
     position: absolute;
-    width: 1022px;
-    height: 136px;
-    margin-top: 568px;
+    width: 102.2rem;
+    height: 13.6rem;
+    margin-top: 56.8rem;
   
     background: #1a1e21;
-    border-radius: 7px;
+    border-radius: 0.7rem;
   }
   .inner_div_right_bottominner1 {
     display: flex;
@@ -632,48 +632,48 @@
   }
   .inner_div_right_bottominner_heading11,.inner_div_right_bottominner_heading12,.inner_div_right_bottominner_heading21,.inner_div_right_bottominner_heading22 {
     /* position: absolute; */
-    width: 100px;
-    height: 18px;
+    width: 10rem;
+    height: 1.8rem;
     font-family: "Konnect";
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
     color: #ffffff;
   }
   .charge_separately{
     position: absolute;
-  width: 193px;
-  height: 28px;
+  width: 19.3rem;
+  height: 2.8rem;
   margin-left:41rem;
   margin-top:0.8rem;
   border: 1px solid #434242;
-  border-radius: 18px;
+  border-radius: 1.8rem;
   }
   #button_26{
     position: absolute;
-  width: 149px;
-  height: 17px;
+  width: 14.9rem;
+  height: 1.7rem;
   margin-top:0.5rem;
   margin-left:2.5rem;
   font-family: 'Konnect';
   font-style: normal;
   font-weight: 500;
-  font-size: 13px;
-  line-height: 17px;
+  font-size: 1.3rem;
+  line-height: 1.7rem;
   color: #FFFFFF;
   }
   .charge_separately_heading{
     
   position: absolute;
-  width: 782px;
-  height: 16px;
+  width: 78.2rem;
+  height: 1.6rem;
   margin-left:14rem;
   margin-top:4.5rem;
   font-family: 'Konnect';
   font-style: italic;
   font-weight: 400;
-  font-size: 11px;
+  font-size: 1.1rem;
   line-height: 148.8%;
   color: #FFFFFF;
   
@@ -681,14 +681,14 @@
   
   .bottom_heading{
     position: absolute;
-  width: 871px;
-  height: 16px;
+  width: 87.1rem;
+  height: 1.6rem;
   margin-left: 6rem;
   margin-top: 72.6rem;
   font-family: 'Konnect';
   font-style: italic;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 1.3rem;
   line-height: 148.8%;
   color: #FFFFFF;
   }
@@ -699,56 +699,56 @@
   }
   .last_div_left{
     position: absolute;
-    width: 503px;
-    height: 48px;
+    width: 50.3rem;
+    height: 4.8rem;
     background: #1A1E21;
-    border-radius: 6px;
+    border-radius: 0.6rem;
   }
   .last_div_right{
     position: absolute;
-  width: 503px;
-  height: 48px;
+  width: 50.3rem;
+  height: 4.8rem;
   margin-left: 52rem;
   background: #79FB53;
-  border-radius: 6px;
+  border-radius: 0.6rem;
   }
   .last_div_left_approve{
     position: absolute;
-    width: 58px;
-    height: 18px;
+    width: 5.8rem;
+    height: 1.8rem;
     margin-left: 22.3rem;
     margin-top: 1.6rem;
     font-family: 'Konnect';
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
     color: #D9D9D9;
   }
   .last_div_left_lock{
     position: absolute;
-    width: 31px;
-    height: 18px;
+    width: 3.1rem;
+    height: 1.8rem;
     margin-left: 23.6rem;
     margin-top: 1.6rem;
     font-family: 'Konnect';
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
     color: #1A1E21;
   }
   .bottom_heading1{
     position: absolute;
-  width: 246px;
-  height: 19px;
+  width: 24.6rem;
+  height: 1.9rem;
   margin-left: 35rem;
   margin-top: 75rem;
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 700;
-  font-size: 15px;
-  line-height: 19px;
+  font-size: 1.5rem;
+  line-height: 1.9rem;
   color: #79FB53;
   }
   .spark_image {
@@ -756,7 +756,7 @@
     left: 6.11%;
     right: 88.5%;
     bottom: 29%;
-    height: 84.01px;
+    height: 8.4rem;
   }
   .spark_image_1 {
     position: absolute;
@@ -877,5 +877,25 @@
     font-weight: 40rem;
     font-size: 1.3rem;
     line-height: 1.6rem;
+  }
+  @media (min-width: 1000px) and (max-width: 1550px) {
+    html {
+      font-size: 49.4%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
+    .heading{
+      margin-left:24rem;
+    }
+  }
+  
+  @media (min-width: 1650px) and (max-width: 1920px) {
+    html {
+      font-size: 62.5%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
   }
   

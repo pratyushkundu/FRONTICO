@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './index1.css'
 
 const Tokenlocker1 = () => {
   return (

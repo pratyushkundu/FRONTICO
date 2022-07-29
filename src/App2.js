@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './index3.css'
 
 const Tokenlocker1 = () => {
     return (
@@ -128,27 +128,27 @@ const Tokenlocker1 = () => {
                                         <div className="boxes_mid_inner_bottom">1 IGNT = 200XXX</div>
                                     </div>
                                 </div>
-                                <div className='registration'>
-                                    <div id="registration">registration closes in 2 days, 22 hours</div>
-                                    <div id="percentage">45%</div>
+                                <div className='Registration'>
+                                    <div id="Registration">registration closes in 2 days, 22 hours</div>
+                                    <div id="Percentage">45%</div>
                                 </div>
 
-                                <div className='potion_fill'>
-                                    <div className='potion'>
-                                        <div className='potion_flow'>
+                                <div className='Potion_fill'>
+                                    <div className='Potion'>
+                                        <div className='Potion_flow'>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div className='registration_1'>
-                                    <div id="registration_1">0XXX</div>
-                                    <div id="percentage_1">0/10 000 000 IDR</div>
+                                <div className='Registration_1'>
+                                    <div id="Registration_1">0XXX</div>
+                                    <div id="Percentage_1">0/10 000 000 IDR</div>
                                 </div>
-                                <div className='kyc_images'>
-                                    <img className="spark_image_2_1" src="images/Vector4.png" />
-                                    <img className="spark_image_2_1" src="images/Vector5.png" />
-                                    <img className="spark_image_2_1" src="images/Vector3.png" />
-                                    <img className="spark_image_2_1" src="images/Vector2.png" />
+                                <div className='kyc_images1'>
+                                    <img className="spark_image_2_1_1" src="images/Vector4.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector5.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector3.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector2.png" />
 
                                 </div>
                                 <div className='boxes_mid3'>
@@ -177,11 +177,11 @@ const Tokenlocker1 = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="kyc_audit">
-                                    <div className='audit_div'>
+                                <div className="kyc_audit1">
+                                    <div className='audit_div1'>
                                         <div id="button_18">AUDIT</div>
                                     </div>
-                                    <div className="kycbox_div">
+                                    <div className="kycbox_div1">
                                         <div id="button_19">KYC</div>
                                     </div>
                                 </div>
@@ -209,27 +209,27 @@ const Tokenlocker1 = () => {
                                         <div className="boxes_mid_inner_bottom">1 IGNT = 200XXX</div>
                                     </div>
                                 </div>
-                                <div className='registration'>
-                                    <div id="registration">registration closes in 2 days, 22 hours</div>
-                                    <div id="percentage">45%</div>
+                                <div className='Registration'>
+                                    <div id="Registration">registration closes in 2 days, 22 hours</div>
+                                    <div id="Percentage">45%</div>
                                 </div>
 
-                                <div className='potion_fill'>
-                                    <div className='potion'>
-                                        <div className='potion_flow'>
+                                <div className='Potion_fill'>
+                                    <div className='Potion'>
+                                        <div className='Potion_flow'>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div className='registration_1'>
-                                    <div id="registration_1">0XXX</div>
-                                    <div id="percentage_1">0/10 000 000 IDR</div>
+                                <div className='Registration_1'>
+                                    <div id="Registration_1">0XXX</div>
+                                    <div id="Percentage_1">0/10 000 000 IDR</div>
                                 </div>
-                                <div className='kyc_images'>
-                                    <img className="spark_image_2_1" src="images/Vector4.png" />
-                                    <img className="spark_image_2_1" src="images/Vector5.png" />
-                                    <img className="spark_image_2_1" src="images/Vector3.png" />
-                                    <img className="spark_image_2_1" src="images/Vector2.png" />
+                                <div className='kyc_images1'>
+                                    <img className="spark_image_2_1_1" src="images/Vector4.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector5.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector3.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector2.png" />
 
                                 </div>
                                 <div className='boxes_mid3'>
@@ -258,11 +258,11 @@ const Tokenlocker1 = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="kyc_audit">
-                                    <div className='audit_div'>
+                                <div className="kyc_audit1">
+                                    <div className='audit_div1'>
                                         <div id="button_18">AUDIT</div>
                                     </div>
-                                    <div className="kycbox_div">
+                                    <div className="kycbox_div1">
                                         <div id="button_19">KYC</div>
                                     </div>
                                 </div>
@@ -294,27 +294,27 @@ const Tokenlocker1 = () => {
                                         <div className="boxes_mid_inner_bottom">1 IGNT = 200XXX</div>
                                     </div>
                                 </div>
-                                <div className='registration'>
-                                    <div id="registration">registration closes in 2 days, 22 hours</div>
-                                    <div id="percentage">45%</div>
+                                <div className='Registration'>
+                                    <div id="Registration">registration closes in 2 days, 22 hours</div>
+                                    <div id="Percentage">45%</div>
                                 </div>
 
-                                <div className='potion_fill'>
-                                    <div className='potion'>
-                                        <div className='potion_flow'>
+                                <div className='Potion_fill'>
+                                    <div className='Potion'>
+                                        <div className='Potion_flow'>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div className='registration_1'>
-                                    <div id="registration_1">0XXX</div>
-                                    <div id="percentage_1">0/10 000 000 IDR</div>
+                                <div className='Registration_1'>
+                                    <div id="Registration_1">0XXX</div>
+                                    <div id="Percentage_1">0/10 000 000 IDR</div>
                                 </div>
-                                <div className='kyc_images'>
-                                    <img className="spark_image_2_1" src="images/Vector4.png" />
-                                    <img className="spark_image_2_1" src="images/Vector5.png" />
-                                    <img className="spark_image_2_1" src="images/Vector3.png" />
-                                    <img className="spark_image_2_1" src="images/Vector2.png" />
+                                <div className='kyc_images1'>
+                                    <img className="spark_image_2_1_1" src="images/Vector4.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector5.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector3.png" />
+                                    <img className="spark_image_2_1_1" src="images/Vector2.png" />
 
                                 </div>
                                 <div className='boxes_mid3'>
@@ -343,11 +343,11 @@ const Tokenlocker1 = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="kyc_audit">
-                                    <div className='audit_div'>
+                                <div className="kyc_audit1">
+                                    <div className='audit_div1'>
                                         <div id="button_18">AUDIT</div>
                                     </div>
-                                    <div className="kycbox_div">
+                                    <div className="kycbox_div1">
                                         <div id="button_19">KYC</div>
                                     </div>
                                 </div>

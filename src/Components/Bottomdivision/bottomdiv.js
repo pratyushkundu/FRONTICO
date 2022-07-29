@@ -3,7 +3,7 @@ import React from 'react'
 const bottomdiv = () => {
     return (
         <>
-            <div className="bottom_div">
+            <div className="bottom_div1">
                 <img className="spark_image" src="images/Vector.png" />
                 <img className="spark_image_1" src="images/Vector1.png" />
                 <div className="heading">
