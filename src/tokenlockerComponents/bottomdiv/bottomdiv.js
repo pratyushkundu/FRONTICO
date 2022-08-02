@@ -1,9 +1,9 @@
 import React from 'react'
 
-const bottomdiv = () => {
+const Bottomdiv = () => {
     return (
         <>
-            <div className="bottom_div1">
+            <div className="bottom_div">
                 <img className="spark_image" src="images/Vector.png" />
                 <img className="spark_image_1" src="images/Vector1.png" />
                 <div className="heading">
@@ -40,9 +40,8 @@ const bottomdiv = () => {
                     <button id="button_4">Subscribe</button>
                 </div>
             </div>
-
         </>
     )
 }
 
-export default bottomdiv
+export default Bottomdiv

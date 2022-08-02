@@ -106,7 +106,7 @@
     height: 97.6rem;
     left: 11rem;
     margin-top: 8.3rem;
-    border: 2px solid #5ce65c;
+    border: 0.2rem solid #5ce65c;
     background: rgba(96, 96, 96, 0.43);
     border-radius: 3.4rem;
   }
@@ -114,166 +114,166 @@
     box-sizing: border-box;
   
     position: absolute;
-    width: 489px;
-    height: 224px;
+    width: 48.9rem;
+    height: 22.4rem;
     margin-left: 11.5rem;
     margin-top: 12.3rem;
     
     background: #1A1E21;
-    border-radius: 15px;
-    border:2px solid  green;
+    border-radius: 1.5rem;
+    border:0.2rem solid  green;
   }
   .inner_top_left_top_top{
     position: absolute;
-    width: 85px;
-    height: 11px;
+    width: 8.5rem;
+    height: 1.1rem;
     margin-left: 3rem;
     margin-top: 2.7rem;
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 10px;
-    line-height: 11px;
+    font-size: 1rem;
+    line-height: 1.1rem;
     color: #79FB53;
   }
   .inner_top_left_top_top1{
     position: absolute;
-    width: 30px;
-    height: 18px;
+    width: 3rem;
+    height: 1.8rem;
     margin-left: 3.1rem;
     margin-top: 4.7rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
     
     color: #FFFFFF;
   }
   .inner_div_left_top_input{
     position: absolute;
-    width: 420px;
-    height: 26px;
+    width: 42rem;
+    height: 2.6rem;
     margin-left: 3.1rem;
     margin-top: 7rem;
     
     background: #131618;
-    border-radius: 5px;
+    border-radius: 0.5rem;
     border:none;
   }
   .inner_top_left_top_mid{
     position: absolute;
-    width: 126px;
-    height: 11px;
+    width: 12.6rem;
+    height: 1.1rem;
     margin-left:3rem;
     margin-top: 10rem;
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
-    line-height: 11px;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
     color: #79FB53;
   }
   .inner_top_left_top_mid1{
     position: absolute;
-    width: 63px;
-    height: 22px;
+    width: 6.3rem;
+    height: 2.2rem;
     margin-left:3.1rem;
     margin-top: 12.8rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 15px;
+    font-size: 1.5rem;
     line-height: 148.8%;
     color: #FFFFFF;
   }
   .inner_top_left_top_bottom{
     position: absolute;
-    width: 21px;
-    height: 12px;
+    width: 2.1rem;
+    height: 1.2rem;
     margin-left: 5.5rem;
     margin-top: 15.5rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 10px;
-    line-height: 12px;
+    font-size: 1rem;
+    line-height: 1.2rem;
     color: #D9D9D9;
     
   }
   .inner_top_left_top_bottom1{
     position: absolute;
-    width: 180px;
-    height: 11px;
+    width: 18rem;
+    height: 1.1rem;
     margin-left:3.1rem;
     top: 17.5rem;
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
-    line-height: 11px;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
     color: #79FB53;
   }
   .inner_div_left_bottom{
     box-sizing: border-box;
   
     position: absolute;
-    width: 694px;
-    height: 449px;
+    width: 69.4rem;
+    height: 44.9rem;
     margin-left: 11.5rem;
     margin-top: 39.7rem;
     
     background: #1A1E21;
-    border-radius: 15px;
-    border:2px solid  green;
+    border-radius: 1.5rem;
+    border:0.2rem solid  green;
   }
   .inner_div_left_bottom_top{
   
     position: absolute;
-    width: 61px;
-    height: 18px;
+    width: 6.1rem;
+    height: 1.8rem;
     margin-left: 3.3rem;
     margin-top: 3rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 17px;
-    line-height: 18px;
+    font-size: 1.7rem;
+    line-height: 1.8rem;
     color: #79FB53;
     
   }
   .inner_div_left_bottom_top1{
     position: absolute;
-    width: 41px;
-    height: 18px;
+    width: 4.1rem;
+    height: 1.8rem;
     margin-left: 3.4rem;
     margin-top: 5.9rem;
     
     font-family: 'Konnect';
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
     
     color: #FFFFFF;
     
   }
   .inner_div_left_bottom_top2{
     position: absolute;
-    width: 200px;
-    height: 11px;
+    width: 20rem;
+    height: 1.1rem;
     margin-left: 3.4rem;
     margin-top: 8.4rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 12px;
-    line-height: 12px;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
     color: #79FB53;
     
   }
@@ -290,39 +290,39 @@
   }
   .inner_div_left_bottom_mid_left_heading1,.inner_div_left_bottom_mid_left_heading2,.inner_div_left_bottom_mid_left_heading4,.inner_div_left_bottom_mid_left_heading5{
     /* position: absolute; */
-  width: 267px;
-  height: 17px;margin-bottom:0.4rem;
+  width: 26.7rem;
+  height: 1.7rem;margin-bottom:0.4rem;
   
   font-family: 'Konnect';
   font-style: normal;
   font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
   color: #FFFFFF;
   
   }
   #inner_div_left_bottom_mid_left_heading1{
     /* position: absolute; */
-    width: 140px;
-    height: 11px;
+    width: 14rem;
+    height: 1.1rem;
     margin-bottom:1rem;
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 11px;
-    line-height: 11px;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
     color: #79FB53;
   }
   .inner_div_left_botton_mid_left_input1,.inner_div_left_botton_mid_left_input2,.inner_div_left_botton_mid_left_input3,.inner_div_left_botton_mid_left_input4{
     /* position: absolute; */
     border: none;
-  width: 279px;
-  height: 26px;
+  width: 27.9rem;
+  height: 2.6rem;
   /* left: 259px; */
   margin-bottom : 1rem;
   
   background: #131618;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   }
   .inner_div_left_bottom_mid_right{
     width:28rem;
@@ -332,14 +332,14 @@
   }
   .inner_div_left_bottom_mid_right_heading1,.inner_div_left_bottom_mid_right_heading2,.inner_div_left_bottom_mid_right_heading4,.inner_div_left_bottom_mid_right_heading5{
     /* position: absolute; */
-  width: 267px;
-  height: 17px;margin-bottom:0.4rem;
-  
+  width: 26.7rem;
+  height: 1.7rem;
+  margin-bottom:0.4rem;
   font-family: 'Konnect';
   font-style: normal;
   font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
   color: #FFFFFF;
   
   }
@@ -347,13 +347,13 @@
   .inner_div_left_botton_mid_right_input1,.inner_div_left_botton_mid_right_input2,.inner_div_left_botton_mid_right_input3,.inner_div_left_botton_mid_right_input4{
     /* position: absolute; */
     border: none;
-  width: 279px;
-  height: 26px;
+  width: 27.9rem;
+  height: 2.6rem;
   /* left: 259px; */
   margin-bottom : 1rem;
   
   background: #131618;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   }
   #inner_div_left_bottom_mid_right_heading1{
     height:2rem;
@@ -362,42 +362,42 @@
   
   .inner_div_left_bottom_lastheading{
     position: absolute;
-    width: 267px;
-    height: 17px;
+    width: 26.7rem;
+    height: 1.7rem;
     margin-left: 3.4rem;
     margin-top: 0.7rem;
     
     font-family: 'Konnect';
     font-style: normal;
     font-weight: 500;
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
     
     color: #FFFFFF;
   }
   .inner_div_left_bottom_lastinput{
     position: absolute;
-  width: 626px;
-  height: 28.21px;
+  width: 62.6rem;
+  height: 2.82rem;
   margin-left: 3.4rem;;
   margin-top: 2.7rem;
   
   background: #131618;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   }
   .inner_div_right_top{
   
     box-sizing: border-box;
   
     position: absolute;
-    width: 713px;
-    height: 364px;
+    width: 71.3rem;
+    height: 36.4rem;
     margin-left: 88rem;
     margin-top: 12.3rem;
     
     background: #1A1E21;
-    border-radius: 15px;
-    border:2px solid  green;
+    border-radius: 1.5rem;
+    border:0.2rem solid  green;
   }
   .inner_div_right_top_top{
     display:flex;
@@ -415,14 +415,14 @@
   .inner_div_right_top_top_left_heading1,.inner_div_right_top_top_left_heading2,.inner_div_right_top_top_left_heading3,.inner_div_right_top_top_left_heading4,.inner_div_right_top_top_left_heading5{
   
     /* position: absolute; */
-    width: 55px;
-    height: 18px;
+    width: 5.5rem;
+    height: 1.8rem;
     margin-bottom:0.4rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 148.8%;
     /* identical to box height, or 18px */
     
@@ -430,8 +430,8 @@
   }
   .inner_div_right_top_top_left_input1,.inner_div_right_top_top_left_input2,.inner_div_right_top_top_left_input3,.inner_div_right_top_top_left_input4,.inner_div_right_top_top_left_input5{
     /* position: absolute; */
-    width: 279px;
-    height: 26px;
+    width: 27.9rem;
+    height: 2.6rem;
      margin-bottom:1rem;
      border:none;
     
@@ -440,13 +440,13 @@
   }
   .inner_div_right_top_top_right_heading1,.inner_div_right_top_top_right_heading2,.inner_div_right_top_top_right_heading3,.inner_div_right_top_top_right_heading4,.inner_div_right_top_top_right_heading5{
     /* position: absolute; */
-    width: 52px;
-    height: 18px;
+    width: 5.2rem;
+    height: 1.8rem;
     margin-bottom:0.4rem;
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 13px;
+    font-size: 1.3rem;
     line-height: 148.8%;
     /* identical to box height, or 18px */
     
@@ -455,39 +455,39 @@
   }
   .inner_div_right_top_top_right_input1,.inner_div_right_top_top_right_input2,.inner_div_right_top_top_right_input3,.inner_div_right_top_top_right_input4,.inner_div_right_top_top_right_input5{
     /* position: absolute; */
-    width: 279px;
-    height: 26px;
+    width: 27.9rem;
+    height: 2.6rem;
   margin-bottom:1rem;
     background: #131618;
-    border-radius: 5px;
+    border-radius: 0.5rem;
     border:none
   }
   
-  .inner_div_right_bottom{
+  .inner_div_right_bottoms{
     box-sizing: border-box;
   
     position: absolute;
-    width: 474px;
-    height: 211px;
+    width: 47.4rem;
+    height: 21.1rem;
     margin-left: 88rem;
     margin-top: 56.2rem;
     
     background: #1A1E21;
-    border-radius: 15px;
-    border:2px solid  green;
+    border-radius: 1.5rem;
+    border:0.2rem solid  green;
   }
   .inner_div_right_bottom_heading{
     position: absolute;
-    width: 80px;
-    height: 18px;
+    width: 8rem;
+    height: 1.8rem;
     margin-left:2.3rem;
     margin-top:3.4rem;
     
     font-family: 'Avenir Next Cyr';
     font-style: normal;
     font-weight: 450;
-    font-size: 16px;
-    line-height: 18px;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
     
     color: #FFFFFF;
     
@@ -496,12 +496,12 @@
    margin-top:6.2rem;
    margin-left:2.3rem;
    position: absolute;
-  width: 420px;
-  height: 114px;
+  width: 42rem;
+  height: 11.4rem;
   
   background: #131618;
   border:none;
-  border-radius: 8px;
+  border-radius: 0.8rem;
   }
   
   .spark_image {
@@ -629,3 +629,25 @@
     font-size: 1.3rem;
     line-height: 1.6rem;
   }
+
+  @media (min-width: 1000px) and (max-width: 1550px) {
+    html {
+      font-size: 49.4%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
+    .heading {
+      margin-left: 27rem;
+    }
+  }
+  
+  @media (min-width: 1650px) and (max-width: 1920px) {
+    html {
+      font-size: 62.5%;
+    }
+    #button_3 {
+      font-size: 10px;
+    }
+  }
+  

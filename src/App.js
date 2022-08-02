@@ -2,6 +2,7 @@ import React from 'react'
 import './index1.css'
 
 const Tokenlocker1 = () => {
+
   return (
     <div className="main_div">
       <div className="top_div">
@@ -26,10 +27,13 @@ const Tokenlocker1 = () => {
         </div>
       </div>
       <div className="middle_div" >
-        <div className="mainnets_dev">
-          <option>
-            <select></select>
-          </option>
+        <div class="mainnet_div" >
+          <select  className='mainnet_design'>
+
+            <option value="0">Mainnet</option>
+            <option value="1">Roburna</option>
+
+          </select>
         </div>
         <div className="inner_div">
 
@@ -57,13 +61,13 @@ const Tokenlocker1 = () => {
 
         </div>
         <div className='info_div_3'>
-          <div style={{marginLeft:"3rem"}}>
+          <div style={{ marginLeft: "3rem" }}>
             <h5>@Copyright DEFI 2022</h5>
-            <h5 style={{marginTop:"2rem"}}>Information</h5>
+            <h5 style={{ marginTop: "2rem" }}>Information</h5>
           </div>
-          <div style={{marginLeft:"13rem"}}>
+          <div style={{ marginLeft: "13rem" }}>
             <h5>Privacy policy</h5>
-            <h5 style={{marginTop:"2rem"}}>Terms of Use</h5>
+            <h5 style={{ marginTop: "2rem" }}>Terms of Use</h5>
           </div>
         </div>
         <div className="bottom_corner">
@@ -78,3 +82,13 @@ const Tokenlocker1 = () => {
 }
 
 export default Tokenlocker1
+
+{/* <div className='flexx'>
+<div className="dropdown" >
+  <input type="text" className="textbox" placeholder="Network" readOnly />
+  <div className='option'>
+    <div className='mainnet_img' onClick={show('Mainnet')}><img src="images/RoburnaBlockchain.png" />Mainnet</div>
+    <div className='roburna_img' onClick={show('Roburna')}><img src="images/RoburnaBlockchain.png" />Roburna</div>
+  </div>
+</div>
+</div> */}

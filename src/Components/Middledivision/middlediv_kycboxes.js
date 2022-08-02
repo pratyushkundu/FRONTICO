@@ -1,10 +1,12 @@
 import React from 'react'
 import Kycdiv from './middlediv_kycdiv'
 
-const middlediv_kycboxes = () => {
+const Middlediv_kycboxes = ({setopenModal9,setopenModal5}) => {
+   
+
     return (
         <>
-            <div className="kyc_boxes">
+            <div className="kyc_boxes" onClick={()=>{setopenModal9(true);setopenModal5(true);}}>
                 <Kycdiv />
             </div>
             <div className="kyc_boxes">
@@ -35,4 +37,4 @@ const middlediv_kycboxes = () => {
     )
 }
 
-export default middlediv_kycboxes
+export default Middlediv_kycboxes
