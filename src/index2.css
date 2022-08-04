@@ -17,6 +17,29 @@ html {
 #blur.inactive1 {
   filter:none
 }
+.corner_button{
+  position: absolute;
+  width: 15.1rem;
+  height: 5.6rem;
+  left: 154rem;
+  top: 400rem;
+  
+  background: hsl(106, 95%, 65%);
+  border-radius: 1.5rem;
+}
+
+#button_28{
+  width: 7.7rem;
+  height: 3.3rem;
+
+  margin:1.2rem 3rem;
+  font-family: 'Konnect';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height: 3.3rem;
+  color: #000000;
+}
 .top_div {
   position: absolute;
   width: 192rem;
@@ -415,7 +438,7 @@ p {
   width: 37.2rem;
   height: 55.5rem;
   border: 2px solid #5ce65c;
-  border-radius: 4rem;
+  border-radius: 2rem;
 }
 
 .kyc_boxes_inside_top {
@@ -522,7 +545,7 @@ p {
 .kyc_boxes_inside_middle_1 {
   height: 6rem;
   position: absolute;
-  width: 30rem;
+  width: 34rem;
   margin-top: 1.5rem;
 }
 .middle_para {

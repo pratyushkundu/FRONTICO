@@ -70,6 +70,10 @@ const MiddleBottomdiv = () => {
                             <div className="kyc_div">
                                 <Kycboxes setopenModal9={setopenModal9} setopenModal5={setopenModal5} />
                             </div>
+                            <div className='corner_button'>
+                                
+                                    <div id='button_28'>Ask Us</div>
+                            </div>
                         </div>
                         <Bottomdiv />
                     </div>

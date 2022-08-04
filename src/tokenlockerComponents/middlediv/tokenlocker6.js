@@ -3,7 +3,7 @@ import React from 'react'
 const Tokenlocker6 = () => {
     return (
         <>
-            <div className='inner_div_leftbottom'>
+            <div className='inner_div_leftbottomz'>
                 <div className='inner_div_leftbottom_top'>Create your lock</div>
                 <div className='inner_div_leftbottom_top1'>Token or LP Token Adress</div>
                 <input className='inner_div_leftbottom_input1'></input>

@@ -105,6 +105,9 @@ const Tokenlocker1 = () => {
                         <div className='inner_div_right_bottom_heading'>Description</div>
                         <input className='inner_div_right_bottom_input'></input>
                     </div>
+                    <div className='corner_buttons'>
+                        <div id="button_29">Done</div>
+                    </div>
                 </div>
             </div>
             <div className="bottom_div">

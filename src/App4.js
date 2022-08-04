@@ -26,11 +26,11 @@ import './index5.css';
 //                     <button id="button_3">CONNECT WALLET</button>
 //                 </div>
 //             </div>
-//            <div className="middle_div" >
-//                 <div className="inner_div"> 
+//             <div className="middle_div" >
+//                 <div className="inner_div">
 //                     <div className='inner_div_left'>
 //                         <div className='inner_div_heading'>Token Locker</div>
-//                         <div className='inner_div_top'>Introducing Token Vesting Locking Pools. Tocken locks are resresented as
+//                         <div className='inner_div_tops'>Introducing Token Vesting Locking Pools. Tocken locks are resresented as
 //                             shares of a pool, in a similar way yo a uniswap pool, allowing all ERC20
 //                             tokens including Rebasing and Deflationary mechanisms to be supported.</div>
 //                         <div className='inner_div_middle'>This means lock amounts may change due ti decimal rounding, but you will always retain your share of the pool.</div>
@@ -38,21 +38,31 @@ import './index5.css';
 //                         <div className='inner_div_bottom1'></div>
 //                         <div className='inner_div_bottom2'></div>
 //                     </div>
-//                     <div className='inner_div_right'>
-//                         <div className='inner_div_right_top'>
-//                             <div className='inner_div_right_top_left'></div>
-//                             <div className='inner_div_right_top_right'></div>
+//                     <div className='inner_div_rightz'>
+//                         <div className='inner_div_right_topz'>
+//                             <div className='inner_div_right_top_leftz'>
+//                                 <img src="images/padlock1.png" className='padlock1_img' />
+//                                 <div className='inner_div_right_top_leftz1'>New Lock</div>
+//                             </div>
+//                             <div className='inner_div_right_top_rightz'>
+//                                 <img src="images/padlock2.png" className='padlock2_img' />
+//                                 <div className='inner_div_right_top_rightz1'>View Lock</div>
+//                             </div>
 //                         </div>
 
 //                         <div className='inner_div_right_top_below'>
 //                             <div className='inner_div_right_top_below_left'>Locks(1)</div>
 //                             <div className='inner_div_right_top_below_right'>
 //                                 <div id="button_21">TableView</div>
+//                                 <div className='table_view'>
+//                                     <img clasName="eye" src="images/Ellipse8.png" />
+//                                     <img className="eye_ball" src="images/Ellipse9.png" />
+//                                 </div>
 //                             </div>
 //                             <div className='inner_div_stroke1'></div>
 //                             <div className='inner_div_right_top_below_left1'>
 //                                 <div className='inner_button_addlock'>
-//                                     <div id='button_22'>Add A Lock</div>
+//                                     <div id='button_222'>Add A Lock</div>
 //                                 </div>
 //                                 <div className='inner_heading1'>
 //                                     <div className='innerheading_top'>your balance</div>
@@ -66,6 +76,21 @@ import './index5.css';
 //                                 </div>
 //                                 <div className='inner_button_import'>
 //                                     <div id='button_24'>Import CSV</div>
+//                                 </div>
+//                             </div>
+//                             <div className='inner_div_right_top_below_right2'>
+//                                 <div className='inner_div_heading_img'>
+//                                     <div className='unknown_heading'>0 Unknown</div>
+//                                     <img className='unknown_img'  src="images/polygon3.png"/>
+//                                     {/* <img className='unknown_img1'  src="images/Vector38.png"/>
+//                                     <img className='unknown_img2'  src="images/Vector41.png"/> */}
+//                                 </div>
+//                                 <div className='icons_heading'>
+//                                     <div className='icon_head'>edit</div>
+//                                     <img className='icon1'  src="images/Vector39.png"/>
+//                                     <img className='icon2' src="images/Rectangle93.png"/>
+//                                     <img className='icon4' src="images/Rectangle93.png"/>
+//                                     <img className='icon3' src="images/Vector40.png"/>
 //                                 </div>
 //                             </div>
 //                             <div className='inner_div_right_top_headingtop'>Unlocks a few seconds ago | 21 Feb 2022 15:49</div>
@@ -112,6 +137,11 @@ import './index5.css';
 //                             </div>
 //                             <div className='charge_separately'>
 //                                 <div id="button_26">Charge fee separately</div>
+//                                 <div className='charge_img'>
+//                                     <img className="circle_img" src="images/Ellipse10.png" />
+//                                     <img className='tick_img' src='images/Vector27.png' />
+//                                 </div>
+
 //                             </div>
 //                             <div className='charge_separately_heading'>
 //                                 Apply a fee to each lock, or pay it once seperately, paying the fee seperately helps ensure the amount of the lock matches the amount you entered.
@@ -129,7 +159,7 @@ import './index5.css';
 //                         </div>
 //                     </div>
 //                 </div>
-//             </div> 
+//             </div>
 //             <div className="bottom_div">
 //                 <img className="spark_image" src="images/Vector.png" />
 //                 <img className="spark_image_1" src="images/Vector1.png" />
@@ -179,7 +209,7 @@ import './index5.css';
 const Tokenlocker1 = () => {
     return (
         <>
-            <div className='inner_div_left'>
+            <div className='inner_div_leftz'>
                 <div className='inner_div_heading'>Token Locker</div>
                 <div className='inner_div_tops'>Introducing Token Vesting Locking Pools. Tocken locks are resresented as
                     shares of a pool, in a similar way yo a uniswap pool, allowing all ERC20
@@ -203,6 +233,10 @@ const Tokenlocker1 = () => {
                     <div className='inner_div_right_top_below_left'>Locks(1)</div>
                     <div className='inner_div_right_top_below_right'>
                         <div id="button_21">TableView</div>
+                        <div className='table_view'>
+                            <img clasName="eye" src="images/Ellipse8.png" />
+                            <img className="eye_ball" src="images/Ellipse9.png" />
+                        </div>
                     </div>
                     <div className='inner_div_stroke1'></div>
                     <div className='inner_div_right_top_below_left1'>
@@ -221,6 +255,20 @@ const Tokenlocker1 = () => {
                         </div>
                         <div className='inner_button_import'>
                             <div id='button_24'>Import CSV</div>
+                        </div>
+                    </div>
+                    <div className='inner_div_right_top_below_right2'>
+                        <div className='inner_div_heading_img'>
+                            <div className='unknown_heading'>0 Unknown</div>
+                            <img className='unknown_img' src="images/polygon3.png" />
+
+                        </div>
+                        <div className='icons_heading'>
+                            <div className='icon_head'>edit</div>
+                            <img className='icon1' src="images/Vector39.png" />
+                            <img className='icon2' src="images/Rectangle93.png" />
+                            <img className='icon4' src="images/Rectangle93.png" />
+                            <img className='icon3' src="images/Vector40.png" />
                         </div>
                     </div>
                     <div className='inner_div_right_top_headingtop'>Unlocks a few seconds ago | 21 Feb 2022 15:49</div>
@@ -266,7 +314,12 @@ const Tokenlocker1 = () => {
                         <div className='inner_div_right_bottominner_heading22'>0 Unknown</div>
                     </div>
                     <div className='charge_separately'>
-                        <div id="button_26">Charge fee separately</div>
+                        <div id="button26">Charge fee separately</div>
+                        <div className='charge_img'>
+                            <img className="circle_img" src="images/Ellipse10.png" />
+                            <img className='tick_img' src='images/Vector27.png' />
+                        </div>
+
                     </div>
                     <div className='charge_separately_heading'>
                         Apply a fee to each lock, or pay it once seperately, paying the fee seperately helps ensure the amount of the lock matches the amount you entered.
@@ -278,8 +331,8 @@ const Tokenlocker1 = () => {
                     <div className='last_div_left'>
                         <div className='last_div_left_approve'>Approve</div>
                     </div>
-                    <div className='last_div_right'>
-                        <div className='last_div_left_lock'>Lock</div>
+                    <div className='last_div_right' >
+                        <div className='last_div_left_lock' >Lock</div>
                     </div>
                 </div>
             </div>

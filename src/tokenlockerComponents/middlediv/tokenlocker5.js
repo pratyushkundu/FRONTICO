@@ -16,9 +16,11 @@ const Tokenlocker5 = ({ setopenModal5 }) => {
             <div className='inner_div_rightz'>
                 <div className='inner_div_right_topz'>
                     <div className='inner_div_right_top_leftz'>
+                    <img src="images/padlock1.png" className='padlock1_img'/>
                         <div className='inner_div_right_top_leftz1'>New Lock</div>
                     </div>
                     <div className='inner_div_right_top_rightz'>
+                    <img src="images/padlock2.png" className='padlock2_img'/>
                         <div className='inner_div_right_top_rightz1'>View Lock</div>
                     </div>
                 </div>
@@ -27,6 +29,10 @@ const Tokenlocker5 = ({ setopenModal5 }) => {
                     <div className='inner_div_right_top_below_left'>Locks(1)</div>
                     <div className='inner_div_right_top_below_right'>
                         <div id="button_21">TableView</div>
+                        <div className='table_view'>
+                            <img clasName="eye" src="images/Ellipse8.png" />
+                            <img className="eye_ball" src="images/Ellipse9.png" />
+                        </div>
                     </div>
                     <div className='inner_div_stroke1'></div>
                     <div className='inner_div_right_top_below_left1'>
@@ -45,6 +51,20 @@ const Tokenlocker5 = ({ setopenModal5 }) => {
                         </div>
                         <div className='inner_button_import'>
                             <div id='button_24'>Import CSV</div>
+                        </div>
+                    </div>
+                    <div className='inner_div_right_top_below_right2'>
+                        <div className='inner_div_heading_img'>
+                            <div className='unknown_heading'>0 Unknown</div>
+                            <img className='unknown_img' src="images/polygon3.png" />
+                          
+                        </div>
+                        <div className='icons_heading'>
+                            <div className='icon_head'>edit</div>
+                            <img className='icon1' src="images/Vector39.png" />
+                            <img className='icon2' src="images/Rectangle93.png" />
+                            <img className='icon4' src="images/Rectangle93.png" />
+                            <img className='icon3' src="images/Vector40.png" />
                         </div>
                     </div>
                     <div className='inner_div_right_top_headingtop'>Unlocks a few seconds ago | 21 Feb 2022 15:49</div>
@@ -90,7 +110,12 @@ const Tokenlocker5 = ({ setopenModal5 }) => {
                         <div className='inner_div_right_bottominner_heading22'>0 Unknown</div>
                     </div>
                     <div className='charge_separately'>
-                        <div id="button_26">Charge fee separately</div>
+                        <div id="button26">Charge fee separately</div>
+                        <div className='charge_img'>
+                            <img className="circle_img" src="images/Ellipse10.png" />
+                            <img className='tick_img' src='images/Vector27.png' />
+                        </div>
+
                     </div>
                     <div className='charge_separately_heading'>
                         Apply a fee to each lock, or pay it once seperately, paying the fee seperately helps ensure the amount of the lock matches the amount you entered.

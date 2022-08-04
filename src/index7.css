@@ -462,6 +462,16 @@
     border-radius: 0.5rem;
     border:none
   }
+  .inner_div_left_botton_mid_right_input5{
+    position: absolute;
+    width: 60rem;
+    height: 2.9rem;
+    background: #131618;
+    border-radius: 0.5rem;
+    border:none;
+    margin-top:2.4rem ;
+    margin-left: 3.5rem;
+  }
   
   .inner_div_right_bottoms{
     box-sizing: border-box;
@@ -516,6 +526,36 @@
     left: 7.04%;
     right: 90.54%;
     bottom: 20%;
+  }
+
+  .corner_buttons{
+    width: 15.1rem;
+    height: 5.6rem;
+    margin-left: 145rem;
+    margin-top: 85rem;
+    
+    background: #79FB53;
+    border-radius: 15px
+  }
+  input::placeholder{
+    font-size: 1rem;
+    padding:1rem
+  }
+  input{
+    color:white;
+    padding:1rem;
+    font-size: 0.7rem;
+  }
+  #button_29{
+    width: 6.4rem;
+    height: 3.3rem;
+    margin:1.2rem 4rem;
+    font-family: 'Konnect';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 3.3rem;
+    color: #000000;
   }
   
   .bottom_div {

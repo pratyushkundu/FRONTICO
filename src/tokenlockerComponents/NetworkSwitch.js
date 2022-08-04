@@ -20,7 +20,7 @@ const NetworkSwitch = ({setopenModal1,setopenModal2,setopenModal3}) => {
                 <div className='stroke_div'></div>
                 <div className='inner_div_1_mainnets'>
                     <img id="mainnets_img" src="images/Vector23.png" ></img>
-                    <img src="images/Vector29.png" style={{ marginLeft: "-6rem", width: "2.1rem", height: "2.1rem", marginTop: "0.6rem" }}></img>
+                    <img src="images/Vector29.png" style={{ marginLeft: "-6rem", width: "2.1rem", height: "2.1rem", marginTop: "0.6rem",marginRight:"0.6rem"  }}></img>
                     <div className='inner_div_1_mainnetsdescription'>Polygon</div>
                 </div>
                 <div className='stroke_div'></div>

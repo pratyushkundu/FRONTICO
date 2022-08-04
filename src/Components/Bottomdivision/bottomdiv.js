@@ -36,7 +36,7 @@ const bottomdiv = () => {
                 </div>
                 <div className="bottom_corner">
                     <p id="bottom_para" style={{ marginBottom: "0.6rem" }}>Subscribe to our NewsLetter</p>
-                    <input className="input"></input>
+                    <input className="input" style={{color:"black"}} placeholder="Enter your e-mail"></input>
                     <button id="button_4">Subscribe</button>
                 </div>
             </div>

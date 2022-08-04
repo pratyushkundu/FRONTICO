@@ -30,7 +30,7 @@ const Tokenlocker1 = () => {
                 <div className="inner_div">
                     <div className='inner_div_left'>
                         <div className='inner_div_heading'>Token Locker</div>
-                        <div className='inner_div_top'>Introducing Token Vesting Locking Pools. Tocken locks are resresented as
+                        <div className='inner_div_tops'>Introducing Token Vesting Locking Pools. Tocken locks are resresented as
                             shares of a pool, in a similar way yo a uniswap pool, allowing all ERC20
                             tokens including Rebasing and Deflationary mechanisms to be supported.</div>
                         <div className='inner_div_middle'>This means lock amounts may change due ti decimal rounding, but you will always retain your share of the pool.</div>
@@ -38,8 +38,8 @@ const Tokenlocker1 = () => {
                         <div className='inner_div_bottom1'></div>
                         <div className='inner_div_bottom2'></div>
                     </div>
-                    <div className='inner_div_leftbottom'>
-                        <div className='inner_div_leftbottom_top'>Create your lock</div>
+                    <div className='inner_div_leftbottomz'>
+                        <div className='inner_div_leftbottom_top' >Create your lock</div>
                         <div className='inner_div_leftbottom_top1'>Token or LP Token Adress</div>
                         <input className='inner_div_leftbottom_input1'></input>
                         <div className='radio_swipe'>
@@ -62,9 +62,13 @@ const Tokenlocker1 = () => {
 
                     </div>
                     <div className='inner_div_right'>
-                        <div className='inner_div_right_top'>
-                            <div className='inner_div_right_top_left'></div>
-                            <div className='inner_div_right_top_right'></div>
+                        <div className='inner_div_right_topz'>
+                            <div className='inner_div_right_top_leftz'>
+                                <div className='inner_div_right_top_leftz1'>New Lock</div>
+                            </div>
+                            <div className='inner_div_right_top_rightz'>
+                                <div className='inner_div_right_top_rightz1'>View Lock</div>
+                            </div>
                         </div>
 
                         <div className='inner_div_right_top_below'>

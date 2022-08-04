@@ -5,6 +5,7 @@ import Metamask from './App8'
 import './index9.css'
 import './index10.css'
 import './index5.css';
+import './index6.css'
 import App4 from './App4'
 import App8 from './App8'
 import App9 from './App9.js';

@@ -111,7 +111,7 @@ p {
   background: rgba(96, 96, 96, 0.43);
   border-radius: 3.4rem;
 }
-.inner_div_top {
+.inner_div_topz {
   box-sizing: border-box;
 
   position: absolute;
@@ -147,7 +147,7 @@ p {
   font-family: "Konnect";
   font-style: normal;
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 169.3%;
   color: #ffffff;
 }
@@ -175,7 +175,7 @@ p {
   font-family: "Konnect";
   font-style: italic;
   font-weight: 300;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 148.8%;
   color: #79fb53;
 }
@@ -195,7 +195,7 @@ p {
 .ether_img {
     display:flex;
     flex-direction: column;
-    margin-left:13.5rem;
+    margin-left:10.5rem;
     margin-top:0.5rem
 }
 
@@ -208,9 +208,10 @@ p {
     flex-direction: row;
     margin-top:-0.3rem
 }
-#button_26 {
-  margin-left: 16rem;
-  margin-top: 0.8rem;
+#button_266 {
+  margin-left: 2rem;
+  margin-top: 1rem;
+  font-size: 1.2rem;
 }
 .spark_image {
   position: absolute;

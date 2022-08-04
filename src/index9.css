@@ -51,13 +51,77 @@ html {
     
     border-radius: 18px;
     border:1px solid green;
+    display:flex;
+    flex-direction: row;
 }
+.wolf_earleft_1{
+  /* position: absolute; */
+  left: 35.09%;
+  right: 63.99%;
+  top: 46.61%;
+  bottom: 52.58%;
+  
+  background: #E27625;
+  border: 0.348958px solid #E27625;
+}
+.wolf_earleft_2{
+
+  /* position: absolute; */
+  left: 34.98%;
+  right: 64.02%;
+  top: 46.61%;
+  bottom: 52.11%;
+  
+  background: #763E1A;
+  border: 0.348958px solid #763E1A;
+}
+.wolf_earright_1{
+  /* position: absolute; */
+  left: 36.3%;
+  right: 62.78%;
+  top: 46.61%;
+  bottom: 52.59%;
+  
+  background: #E17726;
+  border: 0.348958px solid #E17726;
+}
+.wolf_earright_2{
+  /* position: absolute; */
+  left: 36.33%;
+  right: 62.67%;
+  top: 46.61%;
+  bottom: 52.11%;
+  
+  background: #763E1A;
+  border: 0.348958px solid #763E1A;
+}
+
 .metamask_img{
 
 }
-.metamask_connect{
-
+#metamask_face{
+  width:8rem;
+  height:7rem;
+  margin-left:2rem
 }
+.metamask_connect{
+  position: absolute;
+  width: 141.38px;
+  height: 29.51px;
+  margin-left: 12rem;
+  margin-top: 2rem;
+  
+  font-family: 'Konnect';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0.04em;
+  
+  color: #D9D9D9;
+  
+}
+
 .metamask_crypto{
     position: absolute;
     width: 38.6rem;

@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 const Topdiv = () => {
     return (
@@ -12,9 +13,9 @@ const Topdiv = () => {
                 </div>
                 <div className="info_div">
                     <p>HOME</p>
-                    <p>POOLS</p>
+                   <NavLink to="/pools" exact><p>POOLS</p> </NavLink>
                     <p>ABOUT</p>
-                    <p>TOKEN LOCKER</p>
+                    <NavLink to="/" exact><p>TOKEN LOCKER</p></NavLink>
                 </div>
                 <div className="top_button_div">
                     <button id="button_1">IGNITE DEFI</button>

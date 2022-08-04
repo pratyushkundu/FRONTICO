@@ -3,7 +3,7 @@ import React from 'react'
 const Innerdivtop = ({ setopenModal, toggle }) => {
     return (
         <>
-            <div className='inner_div_top'>
+            <div className='inner_div_topz'>
                 <div className='inner_top'>Token Locker</div>
                 <div className='inner_top_1'>Introducing Token Vesting Locking Pools. Tocken locks are resresented as
                     shares of a pool, in a similar way yo a uniswap pool, allowing all ERC20
@@ -21,7 +21,7 @@ const Innerdivtop = ({ setopenModal, toggle }) => {
                             <img src="images/Vector28.png" className='ether_img_bottom_right'></img>
                         </div>
                     </div>
-                    <div id="button_26" onClick={() => { setopenModal(true); toggle(); }}>Connect your wallet</div>
+                    <div id="button_266" onClick={() => { setopenModal(true); toggle(); }}>Connect your wallet</div>
                 </div>
             </div>
         </>)
