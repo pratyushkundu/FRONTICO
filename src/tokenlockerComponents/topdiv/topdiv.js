@@ -22,7 +22,7 @@ const Topdiv = () => {
                     <button id="button_2">PYRE GAMES</button>
                 </div>
                 <div className="connect_wallet_div">
-                    <button id="button_3">CONNECT WALLET</button>
+                    <div id="button_3">CONNECT WALLET</div>
                 </div>
             </div>
         </>

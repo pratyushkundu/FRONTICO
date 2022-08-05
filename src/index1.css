@@ -183,7 +183,8 @@ p {
   margin-left: 2rem;
   background: #000;
   color: #fff;
-  /* border:none */
+  border:none;
+  /* list-style: none; */
 }
 
 .middle_div {
