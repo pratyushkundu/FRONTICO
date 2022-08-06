@@ -1,8 +1,8 @@
 import {Routes,Route} from 'react-router-dom';
 
 
-import App7 from './App7';
-import App1 from './App1'
+import App7 from './Apps/App7';
+import App1 from './Apps/App1'
 
 
 
