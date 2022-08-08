@@ -1,14 +1,14 @@
 import React from 'react'
 import '../index8.css'
 import { useState } from 'react'
-import Metamask from '../App8'
+import Metamask from '../Extrafiles/App8'
 import '../index9.css'
 import '../index10.css'
 import '../index5.css';
 import '../index6.css'
-import App4 from '../App4'
-import App8 from '../App8'
-import App9 from '../App9.js';
+import App4 from '../Extrafiles/App4'
+import App8 from '../Extrafiles/App8'
+import App9 from '../Extrafiles/App9.js';
 import Topdiv from '../tokenlockerComponents/topdiv/topdiv'
 import Middlediv from '../tokenlockerComponents/middlediv/middlediv'
 import Innerdivtop from '../tokenlockerComponents/middlediv/inner_div_top'

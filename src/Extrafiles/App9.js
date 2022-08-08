@@ -1,5 +1,5 @@
 import React from 'react'
-import './index8.css'
+import '../index8.css'
 
 const Tokenlocker1 = ({setopenModal1,setopenModal2,setopenModal3}) => {
     // return (
